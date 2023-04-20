@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">He is an Azerbaijani frontend developer.</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
