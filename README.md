@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill-825x469.jpg)(https://BilgeGates.io)
+[![MasterHead](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill-825x469.jpg)](https://BilgeGates.io)
 <h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
 <h3 align="center"> Azerbaijani frontend developer.</h3>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
