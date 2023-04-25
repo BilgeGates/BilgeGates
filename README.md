@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgegates" alt="bilgegates" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/developerkhatai" target="blank"><img src="https://img.shields.io/twitter/follow/developerkhatai?logo=twitter&style=for-the-badge" alt="developerkhatai" /></a> </p>
-<img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="bilgegates"> 
 
 - 🔭 I’m currently working on **this page.**
 
