@@ -37,7 +37,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img aligin="right" src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true" />
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&layout=compact)](https://github.com/bilgeates/github-readme-stats)
