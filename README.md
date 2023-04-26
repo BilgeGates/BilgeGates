@@ -33,18 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&locale=en" alt="bilgegates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&" alt="bilgegates" /></p>
-
-{
-  "functions": {
-    "api/*.js": {
-      "memory": 128,
-      "maxDuration": 10
-    }
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://github.com/anuraghazra/github-readme-stats"
-    }
-  ]
-}
