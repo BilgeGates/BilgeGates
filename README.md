@@ -40,5 +40,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&langs_count=8)](https://github.com/bilgegates/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamebilgegates&layout=compact)](https://github.com/bilgeates/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&" alt="bilgegates" /></p>
