@@ -1,3 +1,4 @@
+![Front](https://user-images.githubusercontent.com/126269066/235285578-112e6aa8-8495-4a9d-8807-c86faca928a8.jpg)
 
 <h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
 <h3 align="center">I am Azerbaijani Frontend Developer!</h3>
