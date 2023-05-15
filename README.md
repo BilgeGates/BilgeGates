@@ -37,7 +37,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p>
 
-<p align="right">
+
 <picture >
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&theme=dark"
@@ -46,6 +46,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true" />
 </picture>
-<p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&layout=pie)](https://github.com/bilgegates/github-readme-stats)
+
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&layout=pie)](https://github.com/bilgegates/github-readme-stats)<p>
