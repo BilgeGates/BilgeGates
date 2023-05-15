@@ -37,16 +37,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&theme=light"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true" />
-</picture>
+
+[![BilgeGates](https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bilgegates/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&langs_count=8)](https://github.com/bilgegates/github-readme-stats)
