@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&&theme=tokyonight" alt="bilgegates" /></p>
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
- <span> Repositories: <span>     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories"> Look Here </a>
- </h4> </h2>
+ <span style="font-size: 20px"> Repositories: <span> <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories"> Look Here </a>
+
 
 
