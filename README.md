@@ -37,8 +37,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p>
 
+<h1 align="center"> Stats </h1>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilgegates&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bilgegates" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&locale=en&theme=tokyonight" alt="bilgegates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&&theme=tokyonight" alt="bilgegates" /></p>
+
+<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
