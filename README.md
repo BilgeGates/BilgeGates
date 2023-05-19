@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think**
 
-<div  style="margin-top: 20px">>
+<div  style="margin-top: 20px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/developerkhatai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerkhatai" height="30" width="40" /></a>
