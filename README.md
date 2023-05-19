@@ -40,14 +40,11 @@
 <h1 align="center"> Stats </h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilgegates&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bilgegates" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&locale=en&theme=tokyonight" alt="bilgegates" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&&theme=tokyonight" alt="bilgegates" /></p>
-
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
- <h2> Repositories: <h4>     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories"> Look Here </a>
+ <h2> Repositories: <h4 style="display: inline">     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories"> Look Here </a>
  </h4> </h2>
 
 
