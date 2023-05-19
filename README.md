@@ -48,10 +48,10 @@
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
  <h2 align="center"> Repositories </h2>
-  <br>
+
   <div width="100%" align="center">
   </div>
-  <br>
+
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories"> Look Here </a>
   </h4>
