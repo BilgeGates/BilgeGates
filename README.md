@@ -51,10 +51,8 @@
 <br>
 
   <h2 align="center">💻 Repositories </h2>
-  <br>
   <div width="100%" align="center">
   </div>
-  <br>
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
