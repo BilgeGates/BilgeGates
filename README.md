@@ -57,16 +57,13 @@
 
  <br>
 
-
  <img  width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
  <br>
 
-
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true">
 
 <br>
-
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true">
 
