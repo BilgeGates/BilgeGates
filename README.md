@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="left"> 🌐 Connect with me:</h3>
+<h2 align="left"> 🌐 Connect with me:</h2>
 
  <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2 align="left"> 💻 Frontend Technologies</h3>
+<h2 align="left"> 💻 Frontend Technologies</h2>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
-<h2 align="left"> 🔥 Tools</h3>
+<h2 align="left"> 🔥 Tools</h2>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +51,7 @@
 ![Windows](https://img.shields.io/badge/Windows-%23734F96.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 <br>
-<h2 align="left"> 📊 GitHub Stats </h1>
+<h2 align="left"> 📊 GitHub Stats </h2>
 
 <div style="display: flex; align-items: flex-start;gap: 1rem;">
 
@@ -63,10 +63,13 @@
  
 <div>
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</p></div>
+</p>
+</div>
 
 </div>
+
 <br>
+
 <div style="text-align: center;">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
