@@ -8,7 +8,7 @@
 
 <a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a>
 
-<h2> 💫 About me</h2>
+<h2> 📚 About me </h2>
 
 <br>
 
@@ -52,11 +52,12 @@
 
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
+
 <div style="display: flex; align-items: center; gap: 1rem;">
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
  
-<p>&nbsp;<img width="50%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p>&nbsp;<img align="left" width="50%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 </div>
 
