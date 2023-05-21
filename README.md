@@ -6,21 +6,21 @@
 
 ![](https://komarev.com/ghpvc/?username=bilgegates&color=green)
 
-<a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a> 
+<a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a>
 
 <h2> 💫 About me</h2>
 
 <br>
 
- 🔬  I'm currently learning **JavaScript Programming Language**
+🔬 I'm currently learning **JavaScript Programming Language**
 
-🎓  I'm currently continuing my **secondary education**
+🎓 I'm currently continuing my **secondary education**
 
-💻  I love coding and learning everything about it
+💻 I love coding and learning everything about it
 
-📚  Ask me about: **HTML, CSS, Bootstrap**
+📚 Ask me about: **HTML, CSS, Bootstrap**
 
-📫  How to contact me: **huseynzadekhatai@gmail.com**
+📫 How to contact me: **huseynzadekhatai@gmail.com**
 
 <br>
 
@@ -38,7 +38,7 @@
 <h2 align="left"> 💻 Frontend Technologies</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -52,21 +52,21 @@
 
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
+<div style="display: flex; align-items: center; gap: 1rem;">
 
-<img  width="49%"  src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
+ 
+<p>&nbsp;<img width="95%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
- <br>
+</div>
 
- <img  width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+<div style="text-align: center;">
 
- <br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true">
-
-<br>
+</div>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true">
-
 
 <br>
   <h2 align="center">💻 Repositories </h2>
@@ -75,5 +75,3 @@
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
-
-
