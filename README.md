@@ -1,17 +1,3 @@
-<style>
-.stats{
-  display: flex;
-  align-items: flex-start;
-  text-align:center;
-  gap: 1rem;
-}
-
-.stats img{
-  width: 449px;
-  height: 99%
-}
-</style>
-
 ![Front](https://user-images.githubusercontent.com/126269066/235285578-112e6aa8-8495-4a9d-8807-c86faca928a8.jpg)
 
 <h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
@@ -67,11 +53,11 @@
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
 
-<div class="stats">
+<div style="display: flex;align-items: flex-start;gap: 1rem;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
+<p><img align="left" height="100%" width="450" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
  
-<p>&nbsp;<img align="left" height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p>&nbsp;<img align="left" height="99%" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 </div>
 
