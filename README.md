@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="400" alt="bilgegates"/>
 
-![](https://komarev.com/ghpvc/?username=bilgegates&color=gray)
+![](https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat)
 
 <a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a>
 
@@ -62,7 +62,7 @@
 </div>
  
 <div>
-<p>&nbsp;<img align="left" height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </p></div>
 
 </div>
@@ -82,4 +82,3 @@
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
-
