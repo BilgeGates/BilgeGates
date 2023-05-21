@@ -44,7 +44,7 @@
 
 </p>
 
-<palign="right">
+<p align="right">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true)
 
