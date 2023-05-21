@@ -34,7 +34,7 @@
 <h2 align="left">Tools</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h2 align="left"> 📊 GitHub Stats </h1>
 
@@ -65,8 +65,3 @@
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
-
-
-
-
-
