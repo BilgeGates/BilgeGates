@@ -55,19 +55,14 @@
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
 
-<br>
- <div>
- <p>
-    <img align="left" width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true" />
-      </p>
-      <p>
-    <img align="right" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-      </p>
-        <p>
+<img align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+ 
+ <img align="right" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+ 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true">
 
-   ![](https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true"
 
 
 <br>
@@ -77,3 +72,4 @@
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
+
