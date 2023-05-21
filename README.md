@@ -47,7 +47,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual-Studio_Code%23.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%23734F96.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 <br>
