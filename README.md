@@ -38,18 +38,18 @@
 </p>
 
 <h1 align="left"> GitHub Stats </h1>
-<p align="left">
+<spanp align="left">
 
 ![](https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-</p>
+</span>
 
-<p align="right">
+<soan align="right">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true)
 
 
-</p>
+</span>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br>
