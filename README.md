@@ -55,9 +55,9 @@
 
 <div style="display: flex;align-items: flex-start;gap: 1rem;">
 
-<p><img align="left" height="100%" width="450" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
+<p><img align="left" height="100%" width="49%" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
  
-<p>&nbsp;<img align="left" height="99%" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p>&nbsp;<img align="left" height="100%" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 </div>
 
