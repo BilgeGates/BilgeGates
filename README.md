@@ -5,10 +5,8 @@
 <img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="400" alt="bilgegates"/>
 
 ![](https://komarev.com/ghpvc/?username=bilgegates&color=green)
-<!-- 
-<p align="left"> <a href="https://twitter.com/developerkhatai" target="blank"><img src="https://img.shields.io/twitter/follow/developerkhatai?logo=twitter&style=for-the-badge" alt="developerkhatai" /></a> </p> -->
 
-![Twitter](https://img.shields.io/twitter/follow/developerkhatai.svg?style=for-the-badge&logo=twitter&logoColor=blue)
+<a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a> 
 
 <h2> 💫 About me</h2>
 
@@ -31,7 +29,7 @@
  <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
- <a href="ebook.com/profile.php?id=100091496015332" target="_blank" >
+ <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank" >
         <img src="https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
@@ -39,7 +37,7 @@
 
 <h2 align="left"> 💻 Frontend Technologies</h3>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -72,4 +70,5 @@
   <h4 align="center">
     <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
   </h4>
+
 
