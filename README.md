@@ -1,14 +1,28 @@
+<style>
+.stats{
+  display: flex;
+  align-items: flex-start;
+  text-align:center;
+  gap: 1rem;
+}
+
+.stats img{
+  width: 449px;
+  height: 99%
+}
+</style>
+
 ![Front](https://user-images.githubusercontent.com/126269066/235285578-112e6aa8-8495-4a9d-8807-c86faca928a8.jpg)
 
 <h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
 
 <img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="400" alt="bilgegates"/>
 
-![](https://komarev.com/ghpvc/?username=bilgegates&color=green)
+![](https://komarev.com/ghpvc/?username=bilgegates&color=gray)
 
 <a href="https://twitter.com/DeveloperKhatai" target="blank"><img src="https://img.shields.io/twitter/follow/DeveloperKhatai?logo=twitter&style=for-the-badge"/></a>
 
-<h2> 💫 About me</h2>
+<h2> 📚 About me </h2>
 
 <br>
 
@@ -53,12 +67,19 @@
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
 
-<img align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+<div class="stats">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
  
- <img align="right" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true">
+<div style="text-align: center;">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
+
+</div>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true">
 
