@@ -21,6 +21,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100091496015332) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/developerkhatai) 
 
 <h3 align="left">Frontend Technologies</h3>
