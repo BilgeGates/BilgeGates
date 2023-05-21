@@ -39,18 +39,11 @@
 
 <h1 align="left"> GitHub Stats </h1>
 
-<span align="left">
+![](https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-<div style="margin-bottom:10px; margin-top:10px;height:170px">
-      <p valign="top" width="32%;" height="180px">
-        <a href="(https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>"></a>
-      </p>
-      <p valign="top" width="32%" height="180px">
-        <a href="(https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true)" /></a>
-      </p>
-      <p valign="top" width="32%" height="180px">
-        <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)" /></a>
-      </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
