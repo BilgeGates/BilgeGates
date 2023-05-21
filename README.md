@@ -38,7 +38,7 @@
 
 <h2 align="left"> 📊 GitHub Stats </h1>
 
-<div style="display: flex; gap: =48px">
+<div style="display: flex; gap: 20px">
 
 ![](https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 
