@@ -36,13 +36,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h2 align="left"> GitHub Stats </h1>
+<h2 align="left"> 📊 GitHub Stats </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
 
