@@ -71,7 +71,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" /></p>
  
-<p>&nbsp;<img align="left" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
+<p>&nbsp;<img align="left" height="120%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 </div>
 
