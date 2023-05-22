@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="left"> 🌐 Connect with me:</h2>
+<h2 align="left"> 🌐 Social Networks </h2>
 
  <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
