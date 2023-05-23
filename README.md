@@ -78,6 +78,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
 
 </div>
+<br>
 
 [![BilgegGates Activity GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=dracula)](https://github.com/bilgegates/github-readme-activity-graph)
 
