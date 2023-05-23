@@ -68,6 +68,9 @@
 
 </div>
 
+[![Khatai Huseynzade GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=github-compact)](https://github.com/bilgegates/github-readme-activity-graph)
+
+
 <br>
 
 <div style="text-align: center;">
