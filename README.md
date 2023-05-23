@@ -79,7 +79,7 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=github-compact)](https://github.com/bilgegates/github-readme-activity-graph">
+[![BilgegGates Activity GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=dracula)](https://github.com/bilgegates/github-readme-activity-graph)
 
 
 <br>
