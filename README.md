@@ -27,8 +27,12 @@
 
 <h2 align="left"> 🌐 Connect with me:</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/developerkhatai-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/developerkhatai/)
-[![Facebook Badge](https://img.shields.io/badge/profile.php?id=100091496015332-follow%20on%20facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100091496015332/)
+ <a href="https://www.twitter.com/developerkhatai" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+ <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank" >
+        <img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
+</a>
 
 <br>
 
