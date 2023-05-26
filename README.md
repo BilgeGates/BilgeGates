@@ -73,8 +73,6 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilgegates&theme=react-dark&bg_color=20232a&hide_border=true">
-
 <br>
   <h2 align="center">💻 Repositories </h2>
   <div width="100%" align="center">
