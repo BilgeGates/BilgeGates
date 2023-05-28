@@ -21,7 +21,6 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 <br>
 <h2 align="left"> 🔥 Tools</h3>
 
@@ -29,7 +28,6 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 ![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%23734F96.svg?style=for-the-badge&logo=Windows&logoColor=white)
-
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
 <div style="display: flex; align-items: flex-start;gap: 1rem;">
