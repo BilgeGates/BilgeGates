@@ -1,9 +1,5 @@
 ![Front](https://user-images.githubusercontent.com/126269066/235285578-112e6aa8-8495-4a9d-8807-c86faca928a8.jpg)
 
-<h1 align="center">👋 Hi there, I'm Khatai Huseynzade</h1>
-
-<img align="right" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="400" alt="bilgegates"/>
-
 ![](https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat)
 
 
@@ -13,15 +9,8 @@
 
 <br>
 
-🔬 I'm currently learning **JavaScript Programming Language**
-
-🎓 I'm currently continuing my **secondary education**
-
-💻 I love coding and learning everything about it
-
-📚 Ask me about: **HTML, CSS, Bootstrap**
-
-📫 How to contact me: **huseynzadekhatai@gmail.com**
+Hello to everybody!
+I am Khatai Huseynzade. I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JS, Python and many other topics. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Days-Of-Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="github.com/bilgegates">GitHub</a> , <a href="facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 
 <br>
 
