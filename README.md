@@ -1,4 +1,6 @@
-<h1>👋 Hello to everybody!</h2>
+<h1 align="left">👋 Hello to everybody!</h2>
+
+<img align="right"src="https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat">
 
 <h2>I am Khatai Huseynzade</h2>
 
@@ -10,7 +12,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat)
+
 
 <h2 align="left"> 🌐 Connect with me:</h3>
 
