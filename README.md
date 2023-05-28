@@ -4,7 +4,7 @@
 <h2>I am Khatai Huseynzade</h2>
 
 <p>
-I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript, Python. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="github.com/bilgegates" target="_blank">GitHub</a> , <a href="facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
+I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript, Python. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
 </p>
 <br>
 <h2 align="left"> 🌐 Connect with me:</h3>
