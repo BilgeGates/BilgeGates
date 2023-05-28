@@ -1,5 +1,4 @@
 <h1 align="left">👋 Hello to everybody!</h2>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat">
 
 <h2>I am Khatai Huseynzade</h2>
