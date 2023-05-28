@@ -1,5 +1,3 @@
-<h2> 📚 About me </h2>
-
 <br>
 
 <h2>👋 Hello to everybody!</h2>
