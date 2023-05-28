@@ -1,18 +1,13 @@
-![Front](https://user-images.githubusercontent.com/126269066/235285578-112e6aa8-8495-4a9d-8807-c86faca928a8.jpg)
-
-![](https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat)
-
-
-
-
 <h2> 📚 About me </h2>
 
 <br>
 
 Hello to everybody!
-I am Khatai Huseynzade. I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JS, Python and many other topics. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Days-Of-Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="github.com/bilgegates">GitHub</a> , <a href="facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
+I am Khatai Huseynzade. I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JS, Python. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="github.com/bilgegates">GitHub</a> , <a href="facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat)
 
 <h2 align="left"> 🌐 Connect with me:</h3>
 
