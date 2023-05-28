@@ -1,7 +1,5 @@
-<br>
-
 <h1>👋 Hello to everybody!</h2>
-<br>
+
 <h2>I am Khatai Huseynzade</h2>
 
 <h3>
