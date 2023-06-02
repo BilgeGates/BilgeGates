@@ -4,7 +4,7 @@
 <h2>I am Khatai Huseynzade</h2>
 
 <p>
-I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript, Python. The content is known for its clarity and simplicity. 30-Days-Of-JavaScript-TR, 30-Days-Of-Pyhton-AZ, Git-and-Github-AZ are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
+I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript, Python. The content is known for its clarity and simplicity. <a href="https://github.com/BilgeGates/30-Days-Of-JavaScript-TR" target=_blank> 30-Days-Of-JavaScript-TR </a>, <a href="https://github.com/BilgeGates/30-Days-Of-Python-AZ" target=_blank> 30-Days-Of-Pyhton-AZ </a>, <a href="https://github.com/BilgeGates/Git-and-GitHub-AZ" target=_blank> Git-and-Github-AZ </a> are the most popular content on this page. I'm very happy to have you on my GitHub page, and you can use this content to unlock your unlimited potential as a programmer, developer, or data analyst. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
 </p>
 <br>
 <h2 align="left"> 🌐 Connect with me:</h3>
@@ -24,11 +24,21 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 <br>
 <h2 align="left"> 💻 Frontend Technologies</h3>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://www.w3schools.com/css/default.asp" target="_blank">
+        <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> 
+</a>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank">
+        <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</a?
+<a href="https://www.w3schools.com/js/default.asp" target="_blank">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+             </a>
 <br>
+ <h2 align="left"> ⚡️ Frameworks </h2>
+<a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
+
 <h2 align="left"> 🔥 Tools</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -52,6 +62,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 <div style="text-align: center;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
 </div>
+
 <br>
   <h2 align="center">💻 Repositories </h2>
   <div width="100%" align="center">
