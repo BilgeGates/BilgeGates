@@ -14,8 +14,8 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
  <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank" >
         <img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
 </a>
-<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJTKWwQlwGfxHMNFcvPgndLmKMtTgPzVBdgTKkKLQGVHXZkNGHKHKnhrXGbqKqctLdSMmhL">
-<img src"	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJTKWwQlwGfxHMNFcvPgndLmKMtTgPzVBdgTKkKLQGVHXZkNGHKHKnhrXGbqKqctLdSMmhL" target="_blank">
+         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br>
