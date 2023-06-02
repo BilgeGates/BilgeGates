@@ -15,9 +15,12 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
         <img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
 </a>
 <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJTKWwQlwGfxHMNFcvPgndLmKMtTgPzVBdgTKkKLQGVHXZkNGHKHKnhrXGbqKqctLdSMmhL" target="_blank">
-         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
+<a href="https://wwww.github.com/BilgeGates" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+</a>
+ 
 <br>
 <h2 align="left"> 💻 Frontend Technologies</h3>
 
@@ -31,7 +34,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%23734F96.svg?style=for-the-badge&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
 <div style="display: flex; align-items: flex-start;gap: 1rem;">
