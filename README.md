@@ -49,7 +49,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
     </a>
 <a href="https://github.com/BilgeGates">
-      <img style="border: 1px solid #000" src="https://github-readme-streak-stats.herokuapp.com?user=Bilgegates&theme=github_dark" />
+      <img src="https://streak-stats.demolab.com?user=BilgeGates&theme=android-dark&hide_border=true" />
     </a>
     <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
@@ -57,10 +57,3 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
     <a href="https://github.com/BilgeGates">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c" />
     </a>
-<br>
-  <h2 align="center">💻 Repositories </h2>
-  <div width="100%" align="center">
-  </div>
-  <h4 align="center">
-    <a href="https://github.com/bilgegates?tab=repositories" title="Show Repositories">🔎 Look Here </a>
-  </h4>
