@@ -49,7 +49,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
     </a>
 <a href="https://github.com/BilgeGates">
-      <img src="https://streak-stats.demolab.com?user=BilgeGates&theme=vue-dark&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=BilgeGates&theme=github_dark&hide_border=true" />
     </a>
     <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
