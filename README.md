@@ -48,6 +48,15 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
   <a href="https://github.com/BilgeGates">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
     </a>
+<a href="https://github.com/BilgeGates">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bilgegates&theme=github_dark&hide_border=true" />
+    </a>
+    <a href="https://github.com/BilgeGates">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
+    </a>
+    <a href="https://github.com/BilgeGates">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c" />
+    </a>
 <div style="display: flex; align-items: flex-start;gap: 1rem;">
 <div>
 <p>
