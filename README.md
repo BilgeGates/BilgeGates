@@ -16,7 +16,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <br>
-<h2 align="left"> ⚡️ Skills </h2>
+<h2 align="left"> ⚡️ Languages </h2>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank">
         <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> 
 </a>
@@ -45,6 +45,9 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 </a>
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
+  <a href="https://github.com/BilgeGates">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
+    </a>
 <div style="display: flex; align-items: flex-start;gap: 1rem;">
 <div>
 <p>
