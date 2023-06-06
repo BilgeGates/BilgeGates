@@ -57,20 +57,6 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
     <a href="https://github.com/BilgeGates">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c" />
     </a>
-<div style="display: flex; align-items: flex-start;gap: 1rem;">
-<div>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
-</p>
-</div>
-<div>
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</p></div>
-</div>
-<br>
-<div style="text-align: center;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=true"></p>
-</div>
 <br>
   <h2 align="center">💻 Repositories </h2>
   <div width="100%" align="center">
