@@ -46,7 +46,7 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
   <a href="https://github.com/BilgeGates">
-      <img src=https://raw.githubusercontent.com/BilgeGates/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+      <img src="https://raw.githubusercontent.com/BilgeGates/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
     </a>
 <a href="https://github.com/BilgeGates">
       <img src="https://streak-stats.demolab.com?user=BilgeGates&theme=soft-green&hide_border=true" />
