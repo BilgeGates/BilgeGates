@@ -46,14 +46,14 @@ I am a Frontend Developer. This GitHub page has lots of tutorials on HTML, CSS, 
 <br>
 <h2 align="left"> 📊 GitHub Stats </h1>
   <a href="https://github.com/BilgeGates">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=soft-green" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github-dark" />
     </a>
 <a href="https://github.com/BilgeGates">
       <img src="https://streak-stats.demolab.com?user=BilgeGates&theme=soft-green&hide_border=true" />
     </a>
     <a href="https://github.com/BilgeGates">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=soft-green" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github-dark" />
     </a>
     <a href="https://github.com/BilgeGates">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=soft-green&hide_border=true&hide=makefile,cmake,c" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=github-dark&hide_border=true&hide=makefile,cmake,c" />
     </a>
