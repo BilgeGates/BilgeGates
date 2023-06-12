@@ -29,6 +29,8 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
  </a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"
 <br>
 <h2 align="left"> 🔥 Tools </h3>
 <a href="https://www.figma.com" target="_blank">
