@@ -2,7 +2,7 @@
 <h1 align="left"> 👋 Hello to everybody! </h2>
 <h2> I am Khatai Huseynzade </h2>
 <p>
-I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. I'm currently learning React JS and posts about React JS will be coming soon. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
+I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
 </p>
 <br>
 <h2 align="left"> 📬 Reach Me </h3>
@@ -17,12 +17,12 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 </a>
 <br>
 <h2 align="left"> ⚡️ Languages </h2>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank">
+        <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank">
         <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> 
 </a>
-<a href="https://www.w3schools.com/html/default.asp" target="_blank">
-        <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-</a?
 <a href="https://www.w3schools.com/js/default.asp" target="_blank">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
              </a>
