@@ -51,6 +51,6 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
      <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
     </a>
- <a href="https://www.github.com/BilgeGates">
+ <a href="https://www.github.com/BilgeGates" style="margin-right: 16px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
         </a>
