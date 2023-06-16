@@ -5,7 +5,7 @@
 I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
 </p>
 <br>
-<h2 align="left"> Contact </h3>
+<h2 align="left">Contact</h3>
 <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
@@ -16,7 +16,7 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <br>
-<h2 align="left"> Skills </h2>
+<h2 align="left">Skills</h2>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank">
         <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
@@ -44,14 +44,11 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
         <img src="https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio Code">
 </a>
 <br>
-<h2 align="left">  Stats </h1>
+<h2 align="left">Stats</h1>
     <a href="https://github.com/BilgeGates">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
     </a>
-    <a href="https://github.com/BilgeGates">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=blue-green&hide_border=false" />
-    </a>
-    <a href="https://github.com/BilgeGates">
+     <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
     </a>
     <a href="https://github.com/BilgeGates">
