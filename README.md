@@ -6,6 +6,7 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 </p>
 <br>
 <h2 align="left">Contact</h3>
+<hr>
 <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
