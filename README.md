@@ -40,9 +40,6 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio Code">
 </a>
-<a href="https://www.microsoft.com" target="_blank">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-</a>
 <br>
 <h2 align="left">  Stats </h1>
     <a href="https://github.com/BilgeGates">
