@@ -48,10 +48,10 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
     <a href="https://github.com/BilgeGates">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
     </a>
+<hr>
      <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
     </a>
-<br>
  <a href="https://www.github.com/BilgeGates">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
         </a>
