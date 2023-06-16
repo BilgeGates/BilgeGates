@@ -5,7 +5,7 @@
 I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/" target="_blank">GitHub</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
 </p>
 <br>
-<h2 align="left"> 📬 Reach Me </h3>
+<h2 align="left"> Contact </h3>
 <a href="https://www.twitter.com/developerkhatai" target="_blank">
         <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
