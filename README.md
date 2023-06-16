@@ -27,7 +27,7 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
              </a>
 <a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
         </a>
 <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -51,6 +51,6 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
      <a href="https://github.com/BilgeGates">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
     </a>
-    <a href="https://github.com/BilgeGates">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&langs_count=7&card_width=800&theme=github_dark&hide_border=true&hide=makefile,cmake,c" />
-    </a>
+ <a href="https://www.github.com/BilgeGates">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
+        </a>
