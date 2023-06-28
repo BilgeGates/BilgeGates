@@ -32,15 +32,15 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"
-<a href="https://www.figma.com" target="_blank">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</a>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 <a href="https://git-scm.com" target="_blank">
 <img src="https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
 <a href="https://code.visualstudio.com" target="_blank">
 <img src="https://img.shields.io/badge/Visual-Studio%23.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio Code">
+</a>
+<a href="https://www.figma.com" target="_blank">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </a>
 <br>
 <h2 align="left">Stats</h1>
