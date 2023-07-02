@@ -54,3 +54,5 @@ I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS,
 <a href="https://www.github.com/BilgeGates">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
 </a>
+
+<h3><i>🎯Making mistakes leads to finding new solutions</i></h3>
