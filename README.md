@@ -2,7 +2,7 @@
 <h1 align="left"> 👋 Hello to everybody!</h2>
 <h3>I am Khatai Huseynzade</h3>
 <p>
-I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a> , <a href="https://codepen.io/Khatai-Huseynzade" target="_blank">CodePen</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332" target="_blank">Facebook</a> and <a href="https://www.twitter.com/developerkhatai" target="_blank">Twitter</a> to get updates on the content I create.
+I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a> , <a href="https://codepen.io/Khatai-Huseynzade" >CodePen</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 </p>
 <br>
 <h2 align="left">Contact</h3>
