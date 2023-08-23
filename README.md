@@ -2,7 +2,9 @@
 <h1 align="left">👋 Hello to everybody!</h2>
 <h2>I am Khatai Huseynzade</h2>
 <p>
-I am a Front-End Developer. This GitHub page has lots of tutorials on HTML, CSS, JavaScript. The content is known for its clarity and simplicity. I'm very happy to have you on my GitHub page and you can use this content to unlock your unlimited potential as a Front-End Developer. You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a> , <a href="https://codepen.io/Khatai-Huseynzade" >CodePen</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
+I am a Front-End Developer and passionate about web development. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap. I have the ability to develop projects based on HTML, CSS and JavaScript, to use CSS frameworks such as TailwindCSS, Bootstrap effectively, to create responsive and aesthetic designs by keeping the user experience in the foreground.
+I am a Front-End Developer and passionate about web development. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap. I have the ability to develop projects based on HTML, CSS and JavaScript, to use CSS frameworks such as TailwindCSS, Bootstrap effectively, to create responsive and aesthetic designs by keeping the user experience in the foreground.
+ You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a> , <a href="https://codepen.io/Khatai-Huseynzade" >CodePen</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 </p>
 <br>
 <h2 align="left">Contact</h3>
