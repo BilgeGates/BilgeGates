@@ -7,7 +7,7 @@ I am a Front-End Developer and passionate about web development. I have experien
  You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a> , <a href="https://codepen.io/Khatai-Huseynzade" >CodePen</a> , <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 </p>
 <br>
-<h2 align="left">Contact</h3>
+<h2>Contact</h2>
 <a href="https://www.twitter.com/developerkhatai" target="_blank">
 <img src="https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
@@ -15,7 +15,7 @@ I am a Front-End Developer and passionate about web development. I have experien
 <img src="https://img.shields.io/badge/facebook-white.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
 </a>
 <br>
-<h2 align="left">Skills</h2>
+<h2>Front-End Development</h2>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank">
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
@@ -25,6 +25,7 @@ I am a Front-End Developer and passionate about web development. I have experien
 <a href="https://www.w3schools.com/js/default.asp" target="_blank">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </a>
+<h2>Frameworks</h2>
 <a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </a>
@@ -33,6 +34,7 @@ I am a Front-End Developer and passionate about web development. I have experien
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<h2>Tools</h2>
 <a href="https://git-scm.com" target="_blank">
 <img src="https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
@@ -43,7 +45,7 @@ I am a Front-End Developer and passionate about web development. I have experien
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </a>
 <br>
-<h2 align="left">Stats</h1>
+<h2>Stats</h1>
 <a href="https://github.com/BilgeGates">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark" />
 </a>
