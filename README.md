@@ -27,7 +27,6 @@ You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a hre
 <a href="https://www.w3schools.com/js/default.asp" target="_blank">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </a>
-<h2>Frameworks</h2>
 <a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </a>
