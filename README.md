@@ -57,5 +57,4 @@ You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a hre
 <a href="https://www.github.com/BilgeGates">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
 </a>
-<br>
-<h4>🎯<i>Making mistakes leads to finding new solutions!</i></h3>
+
