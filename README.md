@@ -1,8 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat">
-<h1 align="left">Hello to everybody!</h2>
+<h1 align="left">👋 Hello to everybody!</h2>
 <h2>I am Khatai Huseynzade</h2>
 <p>
-I am a Front-End Developer and passionate about web development. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap. I have the ability to develop projects based on HTML, CSS and JavaScript, to use CSS frameworks such as TailwindCSS, Bootstrap effectively, to create responsive and aesthetic designs by keeping the user experience in the foreground.
+A passionate Front-End Web Developer from Azerbaijan. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap. I have the ability to develop projects based on HTML, CSS and JavaScript, to use CSS frameworks such as TailwindCSS, Bootstrap effectively, to create responsive and aesthetic designs by keeping the user experience in the foreground.
 You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a>, <a href="https://www.linkedin.com/in/khatai-huseynzade-464730289/">LinkedIn</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 </p>
 <br>
@@ -52,7 +52,7 @@ You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a hre
 </a>
 <hr>
 <a href="https://github.com/BilgeGates">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilgeGates&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=BilgeGates&theme=github_dark&show_icons=true&locale=en"/>
 </a>
 <a href="https://www.github.com/BilgeGates">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilgeGates&theme=github_dark">
