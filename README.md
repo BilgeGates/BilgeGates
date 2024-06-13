@@ -17,7 +17,7 @@ You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a hre
 <img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <br>
-<h2>Front-End Development</h2>
+<h2>Front-End Web Development</h2>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank">
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
