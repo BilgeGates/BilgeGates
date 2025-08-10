@@ -2,7 +2,22 @@
 <h1 align="left">Hello to everybody!</h2>
 <h2>I am Khatai Huseynzada</h2>
 <p>
-A passionate Front-End Web Developer from Azerbaijan. I have experience creating user-friendly and immersive web experiences using core technologies such as HTML, CSS, and JavaScript, along with modern tools such as Tailwind CSS, React.js, and Bootstrap. I have the ability to develop projects based on HTML, CSS and JavaScript, to use CSS frameworks such as TailwindCSS, Bootstrap effectively, to create responsive and aesthetic designs by keeping the user experience in the foreground.
+I am a front-end developer dedicated to building modern, responsive, and user-centered web applications. I have experience working with HTML, CSS, TailwindCSS, Bootstrap, JavaScript, and ReactJS, specializing in creating clean, maintainable, functional, and visually appealing digital experiences.
+</p>
+</br>
+<p>
+User-friendliness and consistent design across all platforms and devices are among my top priorities. It is very important to me that every interface I build is not only visually attractive but also smooth, seamless, and easy to use.
+</p>
+</br>
+<p>
+From transforming static mockups into fully interactive and dynamic websites to integrating complex functionalities, I enjoy turning creative ideas into reality through efficient and scalable code. I continuously learn the latest tools, frameworks, and best industry practices to improve my skills.
+</p>
+</br>
+<p>
+For me, front-end development is not just about writing code — it’s about combining creativity with technical skills to solve problems, enhance user experience, and add value to the digital world.
+</p>
+</br>
+<p>
 You can follow me on <a href="https://github.com/BilgeGates/">GitHub</a>, <a href="https://www.facebook.com/profile.php?id=100091496015332">Facebook</a>, <a href="https://www.linkedin.com/in/khatai-huseynzade-464730289/">LinkedIn</a> and <a href="https://www.twitter.com/developerkhatai">Twitter</a> to get updates on the content I create.
 </p>
 <br>
