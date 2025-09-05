@@ -1,7 +1,7 @@
 <!-- Profile Views -->
 <img align="right" src="https://komarev.com/ghpvc/?username=bilgegates&label=Profile%20views&color=green&style=flat" />
 
-# 👋 Hello Everyone!  
+# Hello Everyone!  
 ## I am Khatai Huseynzada  
 
 I am a **Front-End Developer** dedicated to building **modern**, **responsive**, and **user-centered** web applications.  
