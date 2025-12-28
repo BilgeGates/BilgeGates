@@ -9,21 +9,23 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bilgegates&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" height="30" />
+<img src="https://komarev.com/ghpvc/?username=bilgegates&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&labelColor=000000" height="35" alt="Profile Views" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Divider">
 </div>
+
+<br>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Front-End Developer from Baku, Azerbaijan, specializing in building modern web applications with React and JavaScript. I focus on creating clean, efficient code and delivering exceptional user experiences.
+I'm a **Front-End Developer** from **Baku, Azerbaijan**, specializing in building modern web applications with **React** and **JavaScript**. I focus on creating clean, efficient code and delivering exceptional user experiences.
 
 **What I bring:**
 - 🎯 Pixel-perfect responsive designs
@@ -41,55 +43,55 @@ I'm a Front-End Developer from Baku, Azerbaijan, specializing in building modern
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br>JavaScript
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+<br><strong>HTML</strong>
 </td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br>React
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+<br><strong>CSS</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+<br><strong>JavaScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+<br><strong>Tailwind</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" />
+<br><strong>React</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br>GitHub
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+<br><strong>GitHub</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+<br><strong>Git</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+<br><strong>VS Code</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+<br><strong>Figma</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-<br>NPM
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=npm" width="55" height="55" alt="NPM" />
+<br><strong>NPM</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-<br>Windows
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
+<br><strong>Windows</strong>
 </td>
 </tr>
 </table>
@@ -104,48 +106,57 @@ I'm a Front-End Developer from Baku, Azerbaijan, specializing in building modern
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilgegates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+### 🔥 My Stats Dashboard
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bilgegates&theme=tokyonight&hide_border=true)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=bilgegates&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+  
+<br><br>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+  
+<br><br>
+
+**📈 Activity Metrics**
+
+| Metric | Value |
+|:-------|:------|
+| ⭐ **Stars Earned** | `8` |
+| 📝 **Commits (2025)** | `319` |
+| 🔀 **Pull Requests** | `0` |
+| 🐛 **Issues** | `10` |
+| 💼 **Repositories** | `1` |
+| 🎯 **Grade** | `A+` |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💻 Language Breakdown
+
+<img src="https://img.shields.io/badge/JavaScript-77.91%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" height="32" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-12.18%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" height="32" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-9.91%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" height="32" alt="CSS" />
 
 </div>
 
 <br>
 
-### 📈 Performance Metrics
-
 <div align="center">
-
-| 📊 Metric | 🔢 Value |
-|:----------|:---------|
-| ⭐ Total Stars | **8** |
-| 📝 Total Commits (2025) | **319** |
-| 🔀 Pull Requests | **0** |
-| 🐛 Issues Created | **10** |
-| 💼 Repositories | **1** |
-| 🎯 Grade | **A+** |
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Divider">
 </div>
 
 <br>
-
-### 💻 Language Distribution
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-77.91%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-12.18%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-9.91%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
 
 ---
 
@@ -159,30 +170,30 @@ I'm a Front-End Developer from Baku, Azerbaijan, specializing in building modern
 
 ### 🎨 Design
 
-Responsive Layouts<br>
-Pixel-Perfect UI<br>
-Modern Interfaces<br>
-Cross-Browser Support
+**Responsive Layouts**<br>
+**Pixel-Perfect UI**<br>
+**Modern Interfaces**<br>
+**Cross-Browser Support**
 
 </td>
 <td width="33%" align="center">
 
 ### 💻 Development
 
-React Components<br>
-State Management<br>
-API Integration<br>
-Code Optimization
+**React Components**<br>
+**State Management**<br>
+**API Integration**<br>
+**Code Optimization**
 
 </td>
 <td width="33%" align="center">
 
 ### 🚀 Tools
 
-Git & GitHub<br>
-Figma to Code<br>
-Code Reviews<br>
-Testing & Debugging
+**Git & GitHub**<br>
+**Figma to Code**<br>
+**Code Reviews**<br>
+**Testing & Debugging**
 
 </td>
 </tr>
@@ -198,11 +209,11 @@ Testing & Debugging
 
 <div align="center">
 
-📚 Mastering advanced React patterns and hooks<br>
-🔨 Building production-ready web applications<br>
-🎨 Exploring modern CSS techniques and animations<br>
-💡 Learning state management solutions<br>
-🚀 Contributing to open-source projects
+📚 **Mastering advanced React patterns and hooks**<br>
+🔨 **Building production-ready web applications**<br>
+🎨 **Exploring modern CSS techniques and animations**<br>
+💡 **Learning state management solutions**<br>
+🚀 **Contributing to open-source projects**
 
 </div>
 
@@ -210,25 +221,27 @@ Testing & Debugging
 
 ---
 
-## 💡 Philosophy
+## 💡 Developer Philosophy
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> 
-> — John Johnson
+> ### *"First, solve the problem. Then, write the code."*
+> **— John Johnson**
 
 <br>
 
-**✨ Clean Code** • **🎯 User First** • **🚀 Continuous Learning** • **🤝 Collaboration**
+<table>
+<tr>
+<td align="center">✨ <strong>Clean Code</strong></td>
+<td align="center">🎯 <strong>User First</strong></td>
+<td align="center">🚀 <strong>Continuous Learning</strong></td>
+<td align="center">🤝 <strong>Collaboration</strong></td>
+</tr>
+</table>
 
 </div>
 
 <br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-</div>
 
 ---
 
@@ -236,25 +249,43 @@ Testing & Debugging
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration opportunities, and freelance projects!
+**Open to collaboration, freelance projects, and full-time opportunities**
 
-<br><br>
-
+<br>
+<table align="center">
+<tr>
+<td align="center" width="200">
 <a href="https://www.linkedin.com/in/khatai-huseynzade-464730289/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
 </a>
-&nbsp;
+</td>
+<td align="center" width="200">
 <a href="mailto:huseynzadekhatai@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
 </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Connect on LinkedIn</strong>
+</td>
+<td align="center">
+<strong>Send me an Email</strong>
+</td>
+</tr>
+</table>
 
-<br><br>
-
-**💼 Open for freelance work and full-time opportunities**
-
-<br><br>
+<br>
 
 ### ⭐ Thanks for visiting my profile!
+
+<br>
+
+**Feel free to reach out for:**
+- 💼 Job opportunities
+- 🤝 Collaboration on projects
+- 💬 Tech discussions
+- ☕ Just to say hi!
 
 </div>
 
@@ -264,7 +295,6 @@ I'm always open to interesting conversations, collaboration opportunities, and f
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 </div>
