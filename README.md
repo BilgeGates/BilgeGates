@@ -112,11 +112,11 @@ I'm a **Front-End Developer** from **Baku, Azerbaijan**, specializing in buildin
 <tr border="none">
 <td width="50%" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=bilgegates&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bilgegates&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
   
 <br><br>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegates&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bilgegates&theme=dark&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
 
 </td>
 <td width="50%" align="center">
@@ -294,7 +294,6 @@ I'm a **Front-End Developer** from **Baku, Azerbaijan**, specializing in buildin
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
-
 </div>
+
