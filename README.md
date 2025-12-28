@@ -1,13 +1,15 @@
-<div align="center">
+<div align='center'>
+  
+  # 👋 Khatai Huseynzada
 
-# 👋 Khatai Huseynzada
-
-### Front-End Developer from Baku, Azerbaijan 🇦🇿
+### Front-End Developer from Baku, Azerbaijan
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Specialist;Building+Modern+Web+Apps)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
-![Profile Views](https://komarev.com/ghpvc/?username=bilgegates&color=3b82f6&style=for-the-badge)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bilgegates&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -47,11 +49,47 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 
 <div align="center">
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bilgegates&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
+### Khatai Huseynzada's GitHub Stats
+
+<table>
+<tr>
+<td align="center">⭐ <b>Total Stars:</b></td>
+<td align="center">8</td>
+<td rowspan="5" align="center" width="200">
+<div style="width: 150px; height: 150px; border-radius: 50%; border: 8px solid #3B82F6; display: flex; align-items: center; justify-content: center; font-size: 36px; font-weight: bold; color: #3B82F6;">
+A+
+</div>
+</td>
+</tr>
+<tr>
+<td align="center">📝 <b>Total Commits (2025):</b></td>
+<td align="center">319</td>
+</tr>
+<tr>
+<td align="center">🔀 <b>Total PRs:</b></td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">🐛 <b>Total Issues:</b></td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td align="center">💼 <b>Contributed to:</b></td>
+<td align="center">1</td>
+</tr>
+</table>
+
+<br>
 
 ![Streak](https://streak-stats.demolab.com?user=bilgegates&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bilgegates&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6)
+<br>
+
+### Most Used Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-77.91%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-12.18%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9.91%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -93,7 +131,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
+[![Email](https://img.shields.io/badge/Email-huseynzadekhatai@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynzadekhatai@gmail.com)
 
 **📧 Open for freelance projects and job opportunities**
 
