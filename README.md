@@ -41,5 +41,3 @@ I work with **HTML**, **CSS**, **TailwindCSS**, **Bootstrap**, **JavaScript**, a
 
 ### 📊 GitHub Stats
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilgeGates&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=github_dark&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&layout=compact&theme=github_dark&cache_seconds=86400)
