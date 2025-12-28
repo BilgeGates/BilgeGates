@@ -28,10 +28,10 @@
 I'm a **Front-End Developer** from **Baku, Azerbaijan**, specializing in building modern web applications with **React** and **JavaScript**. I focus on creating clean, efficient code and delivering exceptional user experiences.
 
 **What I bring:**
-- 🎯 Pixel-perfect responsive designs
-- ⚡ Performance-optimized applications
-- 🧩 Reusable component architecture
-- 📱 Mobile-first development approach
+- 🎯  Pixel-perfect responsive designs
+- ⚡  Performance-optimized applications
+- 🧩  Reusable component architecture
+- 📱   Mobile-first development approach
 
 <br>
 
