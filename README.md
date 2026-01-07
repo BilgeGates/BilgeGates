@@ -1,13 +1,18 @@
-<h1>
-  Khatai Huseynzada
-  <img src="https://komarev.com/ghpvc/?username=BilgeGates&color=green&style=flat" alt="Profile Views" align="right" height="25" />
-</h1>
+<div align="center">
+
+# Khatai Huseynzada
+
+<img src="https://komarev.com/ghpvc/?username=BilgeGates&color=green&style=flat" alt="Profile Views" />
 
 **Front-End Developer | React Specialist**
 
-I turn designs into fast, scalable React applications.
+*I turn designs into fast, scalable React applications*
 
-**Available for:** _Full-time positions, freelance work, and collaboration_
+**Available for:** Full-time positions • Freelance work • Collaboration
+
+</div>
+
+---
 
 ## About Me
 
@@ -41,7 +46,6 @@ I'm a front-end developer building responsive web applications with React. I foc
 **Styling**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Tools**
 
@@ -80,21 +84,30 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 - Advanced React patterns and performance optimization
 - TypeScript integration with React
-- State management solutions (Redux, Zustand)
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BilgeGates&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 ## Contact
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynzadekhatai@gmail.com)
 
-Open to PRs, issues, and feedback.
+*Open to PRs, issues, and feedback*
+
+</div>
 
 ---
 
-*Last updated: January 2026*
+<p align="center">
+  <i>Last updated: January 2026</i>
+</p>
