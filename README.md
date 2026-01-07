@@ -3,6 +3,7 @@
 # Khatai Huseynzada
 
 <img src="https://komarev.com/ghpvc/?username=BilgeGates&color=green&style=flat" alt="Profile Views" />
+<br />
 
 **Front-End Developer | React Specialist**
 
@@ -89,10 +90,6 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BilgeGates&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 ## Contact
