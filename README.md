@@ -1,99 +1,100 @@
 <h1>
-  Hello everyone, I am Khatai Huseynzada.
-  <img src="https://komarev.com/ghpvc/?username=bilgegates&color=green&style=flat" alt="Profile Views" align="right" />
+  Khatai Huseynzada
+  <img src="https://komarev.com/ghpvc/?username=BilgeGates&color=green&style=flat" alt="Profile Views" align="right" height="25" />
 </h1>
+
+**Front-End Developer | React Specialist**
+
+I turn designs into fast, scalable React applications.
+
+**Available for:** _Full-time positions, freelance work, and collaboration_
 
 ## About Me
 
-I'm a front-end developer focused on building modern, responsive web applications. My work centers on React development, where I create scalable component architectures and optimize application performance. I approach development with attention to code quality, user experience, and technical best practices.
+I'm a front-end developer building responsive web applications with React. I focus on clean, maintainable code that scales and performs well. My approach combines attention to detail with systematic problem-solving—real projects, real bugs, real solutions. I prioritize code quality and user experience in everything I build.
 
-My development process emphasizes clean, maintainable code and pixel-perfect implementations. I work with design systems, state management solutions, and modern JavaScript to deliver production-ready applications. Whether building from scratch or optimizing existing systems, I prioritize performance, accessibility, and cross-browser compatibility.
+## What I Can Help With
 
-I'm constantly expanding my technical knowledge, currently deepening my understanding of advanced React patterns, modern CSS techniques, and state management solutions. I believe in learning through building real projects and contributing to the development community.
+- **Speed to Market**: Building React applications from scratch or improving existing ones efficiently
+- **Maintainability**: Writing clean, documented code that reduces future technical debt
+- **Design Implementation**: Converting Figma designs to pixel-perfect, production-ready code
+- **Performance**: Optimizing application speed and responsiveness for better user retention
+- **Best Practices**: Setting up development workflows that save time and reduce bugs
 
----
+## Why Work With Me
+
+- **Reliable**: I meet deadlines and deliver working features, not half-finished code
+- **Code Quality**: Clean, maintainable code that other developers can understand and extend
+- **Attention to Detail**: Pixel-perfect implementations that match design specifications
+- **Problem Solver**: I debug systematically and document solutions for future reference
+- **Communication**: Regular updates, clear documentation, and responsive to feedback
 
 ## Tech Stack
 
-**Frontend Development**
+**Core**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Styling & UI**
+**Styling**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools & Workflow**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+## Projects
 
-## Technical Expertise
+- **[ChessViewer](https://github.com/BilgeGates/ChessViewer)** - Helps users analyze chess games faster with interactive move navigation and board visualization
+- **[PlayGuide](https://github.com/BilgeGates/Functional_Gaming_Site)** - Simplifies game discovery by providing organized information and personalized recommendations
+- **[Online Journal](https://github.com/BilgeGates/online-journal)** - Enables users to document their thoughts and track progress with a clean, distraction-free writing experience
 
-**Frontend Development**
-- Modern JavaScript (ES6+), HTML5, CSS3
-- React.js, React Hooks, Component Lifecycle
-- Responsive Web Design
+*These are real projects with real users and ongoing improvements.*
 
-**Styling & Design**
-- Tailwind CSS, Bootstrap
-- CSS Grid, Flexbox
-- CSS Animations & Transitions
-- Mobile-first Design
-- Design System Implementation
+## How I Approach Bugs
 
-**Development Practices**
-- Component-based Architecture
-- State Management
-- Performance Optimization
-- Code Review & Refactoring
-- Git Version Control
+1. Reproduce the issue consistently
+2. Isolate the problem area through systematic testing
+3. Fix the root cause, not just the symptom
+4. Add safeguards to prevent similar issues
 
-**Tools & Environment**
-- Visual Studio Code
-- Git & GitHub
-- NPM Package Management
-- Figma to Code Conversion
-- Browser DevTools
+## Known Issues I Like Solving
 
----
+- State management complexity in large React applications
+- Performance bottlenecks in component re-renders
+- CSS layout issues across different browsers and screen sizes
 
-## GitHub Statistics
+## How I Review Code
+
+1. Check for readability and maintainability first
+2. Look for potential performance issues and edge cases
+3. Suggest improvements without nitpicking—focus on what matters
+
+## Currently Improving
+
+- Advanced React patterns and performance optimization
+- TypeScript integration with React
+- State management solutions (Redux, Zustand)
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegates&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
----
-
-## Current Focus
-
-**Learning & Development**
-- Advanced React patterns (Custom Hooks, Context API, Performance optimization)
-- TypeScript integration with React
-- Advanced CSS techniques and animations
-
-**Projects & Goals**
-- Building production-ready web applications
-- Contributing to open-source projects
-- Improving code architecture and design patterns
-- Exploring modern frontend tooling and frameworks
-
----
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynzadekhatai@gmail.com)
 
-Open to collaboration, freelance projects, and full-time opportunities.
+Open to PRs, issues, and feedback.
+
+---
+
+*Last updated: January 2026*
