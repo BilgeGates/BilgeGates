@@ -56,7 +56,7 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 ## Projects
 
-- **[ChessViewer](https://github.com/BilgeGates/ChessViewer)** - Helps users analyze chess games faster with interactive move navigation and board visualization
+- **[Chess Diagram Generator](https://github.com/BilgeGates/ChessViewer)** - Helps users analyze chess games faster with interactive move navigation and board visualization
 - **[PlayGuide](https://github.com/BilgeGates/Functional_Gaming_Site)** - Simplifies game discovery by providing organized information and personalized recommendations
 - **[Online Journal](https://github.com/BilgeGates/online-journal)** - Enables users to document their thoughts and track progress with a clean, distraction-free writing experience
 
