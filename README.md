@@ -91,8 +91,8 @@ I'm a front-end developer building responsive web applications with React. I foc
 [![Khatai's github activity graph](https://bilgegates-readme-activity-graph.vercel.app/graph?username=BilgeGates&bg_color=131313&color=f8d866&line=0a4d0a&point=ffffff&area=true&hide_border=true)](https://github.com/BilgeGates/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true" alt="GitHub Stats"  width="530" />
-  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=0a4d0a&hide_border=true&hide=typescript,nix,shell&langs_count=6" alt="Top Languages" width="350" />
+  <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true" alt="GitHub Stats" height="195" />
+  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=0a4d0a&hide_border=true&hide=typescript,nix,shell&langs_count=6" alt="Top Languages" height="195" />
 </div>
 
 <div align="center">
