@@ -88,9 +88,12 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 ## GitHub Activity
 
-<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BilgeGates's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BilgeGates&bg_color=1F222E&color=F8D866&line=0A4D0A&point=FFFFFF&hide_border=true" /></a>
+
+<span><a href="https://github.com/BilgeGates?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=BilgeGates&bg_color=1F222E&theme=dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&icon_color=0A4D0A&title_color=F8D866"  width="48%" alt="BilgeGates's github-readme-stats"/></a></span>
+<span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
-</p>
+</span>
 
 ## Contact
 
