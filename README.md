@@ -88,12 +88,16 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 ## GitHub Activity
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BilgeGates's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BilgeGates&bg_color=1F222E&color=F8D866&line=0A4D0A&point=FFFFFF&hide_border=true" /></a>
+[![Khatai's github activity graph](https://bilgegates-readme-activity-graph.vercel.app/graph?username=BilgeGates&bg_color=131313&color=f8d866&line=0a4d0a&point=ffffff&area=true&hide_border=true)](https://github.com/BilgeGates/github-readme-activity-graph)
 
-<span><a href="https://github.com/BilgeGates?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=BilgeGates&bg_color=1F222E&theme=dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&icon_color=0A4D0A&title_color=F8D866"  width="48%" alt="BilgeGates's github-readme-stats"/></a></span>
-<span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeGates&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
-</span>
+<div align="center">
+  <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true" alt="GitHub Stats"  width="560" />
+  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=0a4d0a&hide_border=true&hide=typescript,nix,shell&langs_count=6" alt="Top Languages" width="380" />
+</div>
+
+<div align="center">
+  <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" witdh="550" />
+</div>
 
 ## Contact
 
