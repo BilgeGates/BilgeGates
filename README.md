@@ -91,7 +91,7 @@ I prioritize code quality and user experience in everything I build.
     Simplifies game discovery by providing organized information and personalized recommendations
   </span>
 </div>
-<
+
 <div>
   <span>
     <b>
