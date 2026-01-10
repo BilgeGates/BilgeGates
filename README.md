@@ -2,8 +2,7 @@
 
 # Khatai Huseynzada
 
-<img src="https://komarev.com/ghpvc/?username=BilgeGates&color=green&style=flat" alt="Profile Views" />
-<br />
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBilgeGates&count_bg=%230A4D0A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)<br />
 
 **Front-End Developer | React Specialist**
 
