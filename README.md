@@ -30,25 +30,31 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 ## Tech Stack
 
-**Core**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h3><b>Core Technologies</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0a4d0a?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/React-f8d866?style=for-the-badge&logo=react&logoColor=1f2937"/>
+  <img src="https://img.shields.io/badge/HTML5-0a4d0a?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-f8d866?style=for-the-badge&logo=css3&logoColor=1f2937"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0a4d0a?style=for-the-badge&logo=tailwind-css&logoColor=ffffff"/>
+</p>
 
-**Tools**
+<h3><b>Development Tools</b></h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-f8d866?style=for-the-badge&logo=git&logoColor=1f2937"/>
+  <img src="https://img.shields.io/badge/GitHub-0a4d0a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VS_Code-f8d866?style=for-the-badge&logo=visual-studio-code&logoColor=1f2937"/>
+  <img src="https://img.shields.io/badge/Figma-0a4d0a?style=for-the-badge&logo=figma&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Windows-f8d866?style=for-the-badge&logo=windows&logoColor=1f2937"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
 
 ## Projects
 
-**[Chess Diagram Generator](https://github.com/BilgeGates/ChessViewer)**  
+**[[Chess Diagram Generator](https://github.com/BilgeGates/ChessViewer)**  
 Helps users analyze chess games faster with interactive move navigation and board visualization
 
 **[PlayGuide](https://github.com/BilgeGates/Functional_Gaming_Site)**  
@@ -77,9 +83,8 @@ Enables users to document their thoughts and track progress with a clean, distra
 
 <div align="center">
   <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true" alt="GitHub Stats" height="195" />
-  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs/?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=0a4d0a&hide_border=true&hide=typescript,nix,shell&langs_count=6" alt="Top Languages" height="195" />
+  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=f8d866&hide_border=true&hide=typescript,nix,shell&langs_count=6&v=10" alt="Top Languages" height="195" /> 
 </div>
-
 <div align="center">
   <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -88,10 +93,11 @@ Enables users to document their thoughts and track progress with a clean, distra
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynzadekhatai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
+[![Email](https://img.shields.io/badge/Email-f8d866?style=for-the-badge&logo=gmail&logoColor=black)](mailto:huseynzadekhatai@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-0a4d0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilgeGates)
 
-*Open to PRs, issues, and feedback*
+*Open to collaboration, PRs, and feedback*
 
 </div>
 
