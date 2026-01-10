@@ -60,6 +60,8 @@ I prioritize code quality and user experience in everything I build.
     <img src="https://img.shields.io/badge/VS_Code-f8d866?style=for-the-badge&logo=visual-studio-code&logoColor=1f2937" alt="VS Code" />
     <img src="https://img.shields.io/badge/Figma-0a4d0a?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
     <img src="https://img.shields.io/badge/Windows-f8d866?style=for-the-badge&logo=windows&logoColor=1f2937" alt="Windows" />
+    <img src="https://img.shields.io/badge/Vercel-0a4d0a?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Netlify-f8d866?style=for-the-badge&logo=netlify&logoColor=1f2937" alt="Netlify" />
   </p>
 </div>
 
@@ -89,7 +91,7 @@ I prioritize code quality and user experience in everything I build.
     Simplifies game discovery by providing organized information and personalized recommendations
   </span>
 </div>
-
+<
 <div>
   <span>
     <b>
@@ -102,7 +104,7 @@ I prioritize code quality and user experience in everything I build.
   </span>
 </div>
 <br />
-<i>Enables users to document their thoughts and track progress with a clean, distraction-free writing experience </i>
+<i>Minimal, user-focused projects that prioritize clarity, consistency, and long-term usability.</i>
 
 <!-- ===== Bug Solving Approach ===== -->
 <h2>How I Approach Bugs</h2>
