@@ -1,15 +1,12 @@
 <div align="center">
 
-# Khatai Huseynzada
+# Hi, I'm Khatai Huseynzada
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBilgeGates&count_bg=%230A4D0A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)<br />
+<img src="https://komarev.com/ghpvc/?username=BilgeGates&color=0a4d0a&style=for-the-badge&label=PROFILE+VIEWS&label_color=1f1f1f" alt="Profile Views" />
 
-**Front-End Developer | React Specialist**
+#### Front-End Web Developer | Always Learning New Tech | Open Source Contributor | Creating Great User Experiences
 
-*I turn designs into fast, scalable React applications*
-
-**Available for:** Full-time positions • Freelance work • Collaboration
-
+<br />
 </div>
 
 ---
