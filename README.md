@@ -4,9 +4,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=BilgeGates&color=0a4d0a&style=for-the-badge&label=PROFILE+VIEWS&label_color=1f1f1f" alt="Profile Views" />
 
-#### Front-End Web Developer | Always Learning New Tech | Open Source Contributor | Creating Great User Experiences
+### Front-End Developer  | Open Source Contributor | Creating Great User Experiences
 
 <br />
+
+![Full-time](https://img.shields.io/badge/Full--time-0a4d0a?style=for-the-badge&logo=briefcase&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-f8d866?style=for-the-badge&logo=handshake&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-0a4d0a?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -17,19 +22,11 @@ I'm a front-end developer building responsive web applications with React. I foc
 
 ## What I Can Help With
 
-- **Speed to Market**: Building React applications from scratch or improving existing ones efficiently
-- **Maintainability**: Writing clean, documented code that reduces future technical debt
-- **Design Implementation**: Converting Figma designs to pixel-perfect, production-ready code
-- **Performance**: Optimizing application speed and responsiveness for better user retention
-- **Best Practices**: Setting up development workflows that save time and reduce bugs
-
-## Why Work With Me
-
-- **Reliable**: I meet deadlines and deliver working features, not half-finished code
-- **Code Quality**: Clean, maintainable code that other developers can understand and extend
-- **Attention to Detail**: Pixel-perfect implementations that match design specifications
-- **Problem Solver**: I debug systematically and document solutions for future reference
-- **Communication**: Regular updates, clear documentation, and responsive to feedback
+- Building React applications from scratch or improving existing ones efficiently
+- Writing clean, documented code that reduces future technical debt
+- Converting Figma designs to pixel-perfect, production-ready code
+- Optimizing application speed and responsiveness for better user retention
+- Setting up development workflows that save time and reduce bugs
 
 ## Tech Stack
 
@@ -39,22 +36,26 @@ I'm a front-end developer building responsive web applications with React. I foc
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Styling**
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Projects
 
-- **[Chess Diagram Generator](https://github.com/BilgeGates/ChessViewer)** - Helps users analyze chess games faster with interactive move navigation and board visualization
-- **[PlayGuide](https://github.com/BilgeGates/Functional_Gaming_Site)** - Simplifies game discovery by providing organized information and personalized recommendations
-- **[Online Journal](https://github.com/BilgeGates/online-journal)** - Enables users to document their thoughts and track progress with a clean, distraction-free writing experience
+**[Chess Diagram Generator](https://github.com/BilgeGates/ChessViewer)**  
+Helps users analyze chess games faster with interactive move navigation and board visualization
+
+**[PlayGuide](https://github.com/BilgeGates/Functional_Gaming_Site)**  
+Simplifies game discovery by providing organized information and personalized recommendations
+
+**[Online Journal](https://github.com/BilgeGates/online-journal)**  
+Enables users to document their thoughts and track progress with a clean, distraction-free writing experience
 
 *These are real projects with real users and ongoing improvements.*
 
@@ -65,22 +66,10 @@ I'm a front-end developer building responsive web applications with React. I foc
 3. Fix the root cause, not just the symptom
 4. Add safeguards to prevent similar issues
 
-## Known Issues I Like Solving
-
-- State management complexity in large React applications
-- Performance bottlenecks in component re-renders
-- CSS layout issues across different browsers and screen sizes
-
-## How I Review Code
-
-1. Check for readability and maintainability first
-2. Look for potential performance issues and edge cases
-3. Suggest improvements without nitpicking—focus on what matters
-
 ## Currently Improving
 
 - Advanced React patterns and performance optimization
-- TypeScript integration with React
+- Modern JavaScript frameworks and tools
 
 ## GitHub Activity
 
@@ -92,7 +81,7 @@ I'm a front-end developer building responsive web applications with React. I foc
 </div>
 
 <div align="center">
-  <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" witdh="550" />
+  <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## Contact
