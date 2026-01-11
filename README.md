@@ -154,6 +154,10 @@ I prioritize code quality and user experience in everything I build.
   />
 </div>
 
+<p align="center">
+  <i>Stats powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a></i>
+</p>
+
 <!-- ===== Contact Section ===== -->
 <h2>Contact</h2>
 
