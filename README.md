@@ -155,7 +155,7 @@ I prioritize code quality and user experience in everything I build.
 </div>
 <br />
 <p align="center">
-  <i>Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
+  <i>Thanks to <a href="https://github.com/antonkomarev">Anton Komarev</a>, <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
 </p>
 
 <!-- ===== Contact Section ===== -->
