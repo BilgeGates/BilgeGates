@@ -129,14 +129,14 @@ I prioritize code quality and user experience in everything I build.
 
 <a href="https://github.com/BilgeGates/github-readme-activity-graph">
   <img
-    src="https://bilgegates-readme-activity-graph.vercel.app/graph?username=BilgeGates&bg_color=131313&color=f8d866&line=0a4d0a&point=ffffff&area=true&hide_border=true"
+    src="https://bilgegates-readme-activity-graph.vercel.app/graph?username=BilgeGates&bg_color=131313&color=f8d866&line=0a4d0a&point=ffffff&area=true&hide_border=true&v=2"
     alt="Khatai's github activity graph"
   />
 </a>
 
 <div align="center">
   <img
-    src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true"
+    src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=2"
     alt="GitHub Stats"
     height="195"
   />
