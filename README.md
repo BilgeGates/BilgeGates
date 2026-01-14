@@ -1,13 +1,6 @@
 <!-- ===== Profile Header Section ===== -->
 <div align="center">
   <h1>Hi, I'm Khatai Huseynzada</h1>
-
-  <!-- Profile view counter badge -->
-  <img
-    src="https://komarev.com/ghpvc/?username=BilgeGates&color=0a4d0a&style=for-the-badge&label=PROFILE+VIEWS&label_color=1f1f1f"
-    alt="Profile Views"
-  />
-
   <h3>Front-End Developer  | Open Source Contributor | Creating Great User Experiences</h3>
   <br />
 
@@ -155,7 +148,7 @@ I prioritize code quality and user experience in everything I build.
 </div>
 <br />
 <p align="center">
-  <i>Thanks to <a href="https://github.com/antonkomarev">Anton Komarev</a>, <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
+  <i>Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
 </p>
 
 <!-- ===== Contact Section ===== -->
