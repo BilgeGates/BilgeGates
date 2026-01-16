@@ -76,7 +76,7 @@ I prioritize code quality and user experience in everything I build.
 <div>
   <span>
     <b>
-      <a href="https://github.com/BilgeGates/Functional_Gaming_Site">PlayGuide</a>
+      <a href="https://github.com/BilgeGates/Functional_Gaming-Site">PlayGuide</a>
     </b>
   </span>
   -
