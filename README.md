@@ -129,7 +129,7 @@ I prioritize code quality and user experience in everything I build.
 
 <div align="center">
   <img
-    src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=2"
+    src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&count_private=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=2"
     alt="GitHub Stats"
     height="195"
   />
