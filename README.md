@@ -48,13 +48,13 @@ I prioritize code quality and user experience in everything I build.
 
   <h3><b>Development Tools</b></h3>
   <p>
+    <img src="https://img.shields.io/badge/Figma-f8d866?style=for-the-badge&logo=figma&logoColor=1f2937" alt="Figma" />
+    <img src="https://img.shields.io/badge/VS_Code-0a4d0a?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS Code" />
     <img src="https://img.shields.io/badge/Git-f8d866?style=for-the-badge&logo=git&logoColor=1f2937" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-0a4d0a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-f8d866?style=for-the-badge&logo=visual-studio-code&logoColor=1f2937" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Figma-0a4d0a?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
-    <img src="https://img.shields.io/badge/Windows-f8d866?style=for-the-badge&logo=windows&logoColor=1f2937" alt="Windows" />
-    <img src="https://img.shields.io/badge/Vercel-0a4d0a?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Netlify-f8d866?style=for-the-badge&logo=netlify&logoColor=1f2937" alt="Netlify" />
+    <img src="https://img.shields.io/badge/npm-0a4d0a?style=for-the-badge&logo=npm&logoColor=ffffff" alt="npm" />
+    <img src="https://img.shields.io/badge/ESLint-f8d866?style=for-the-badge&logo=eslint&logoColor=1f2937" alt="ESLint" />
+    <img src="https://img.shields.io/badge/Prettier-0a4d0a?style=for-the-badge&logo=prettier&logoColor=ffffff" alt="Prettier" />
+    <img src="https://img.shields.io/badge/Vercel-f8d866?style=for-the-badge&logo=vercel&logoColor=1f2937" alt="Vercel" />
   </p>
 </div>
 
