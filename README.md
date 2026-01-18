@@ -133,26 +133,7 @@ I prioritize code quality and user experience in everything I build.
 <details>
   <summary><strong>Detailed Profile Stats</strong></summary>
   <br />
-
-  <div align="center">
-    <img
-      src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&count_private=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=3"
-      alt="GitHub Stats"
-      height="195"
-    />
-    <img
-      src="https://bilgegates-readme-stats.vercel.app/api/top-langs?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=f8d866&hide_border=true&hide=typescript,nix,shell&langs_count=6&v=10"
-      alt="Top Languages"
-      height="195"
-    />
-  </div>
-  <br />
-  <div align="center">
-    <img
-      src="https://bilgegates-readme-streak-stats.vercel.app user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </div>
+<div align="center"> <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&count_private=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=3" alt="GitHub Stats" height="195" /> <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=f8d866&hide_border=true&hide=typescript,nix,shell&langs_count=6&v=10" alt="Top Languages" height="195" /> </div> <div align="center"> <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" /> </div>
 </details>
 
 <br />
