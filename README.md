@@ -146,7 +146,7 @@ I prioritize code quality and user experience in everything I build.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khatai-huseynzade-464730289/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khataihuseynzada/)
   [![Email](https://img.shields.io/badge/Email-f8d866?style=for-the-badge&logo=gmail&logoColor=black)](mailto:huseynzadekhatai@gmail.com) 
   [![GitHub](https://img.shields.io/badge/Follow-0a4d0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilgeGates)
 
