@@ -149,7 +149,7 @@ I prioritize code quality and user experience in everything I build.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khataihuseynzada/)
   [![Email](https://img.shields.io/badge/Email-f8d866?style=for-the-badge&logo=gmail&logoColor=black)](mailto:huseynzadekhatai@gmail.com) 
   [![GitHub](https://img.shields.io/badge/Follow-0a4d0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilgeGates)
-  [![Twitter](https://img.shields.io/badge/Twitter-f8d866?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/K_Huseynzada)
+  [![Twitter](https://img.shields.io/badge/Twitter-f8d866?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/K_Huseynzada)
 
   <p><i>Open to collaboration, PRs, and feedback</i></p>
 </div>
