@@ -3,13 +3,6 @@
   <h1>Hi, I'm Khatai Huseynzada</h1>
   <h3>Front-End Developer  | Open Source Contributor | Creating Great User Experiences</h3>
   <br />
-
-  <!-- Status badges -->
-  <img src="https://img.shields.io/badge/Full--time-0a4d0a?style=for-the-badge&logo=briefcase&logoColor=white" alt="Full-time" />
-  <img src="https://img.shields.io/badge/Freelance-f8d866?style=for-the-badge&logo=handshake&logoColor=black" alt="Freelance" />
-  <img src="https://img.shields.io/badge/Open_Source-0a4d0a?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-</div>
-
 <hr />
 
 <!-- ===== About Me Section ===== -->
