@@ -3,7 +3,6 @@
   <h1>Hi, I'm Khatai Huseynzada</h1>
   <h3>Front-End Developer  | Open Source Contributor | Creating Great User Experiences</h3>
 </div>  
-  
 <hr />
 
 <!-- ===== About Me Section ===== -->
