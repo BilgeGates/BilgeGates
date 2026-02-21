@@ -7,7 +7,6 @@
 
 <!-- ===== About Me Section ===== -->
 <h2>About Me</h2>
-
 <p>
 I'm a front-end developer building responsive web applications with React.
 I focus on clean, maintainable code that scales and performs well.
@@ -17,7 +16,6 @@ I prioritize code quality and user experience in everything I build.
 
 <!-- ===== What I Can Help With ===== -->
 <h2>What I Can Help With</h2>
-
 <ul>
   <li>Building React applications from scratch or improving existing ones efficiently</li>
   <li>Writing clean, documented code that reduces future technical debt</li>
