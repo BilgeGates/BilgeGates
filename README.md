@@ -35,7 +35,6 @@ I prioritize code quality and user experience in everything I build.
     <img src="https://img.shields.io/badge/CSS3-f8d866?style=for-the-badge&logo=css3&logoColor=1f2937" alt="CSS3" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-0a4d0a?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" />
   </p>
-
   <h3><b>Development Tools</b></h3>
   <p>
     <img src="https://img.shields.io/badge/Figma-f8d866?style=for-the-badge&logo=figma&logoColor=1f2937" alt="Figma" />
@@ -50,7 +49,6 @@ I prioritize code quality and user experience in everything I build.
 
 <!-- ===== Projects Section ===== -->
 <h2>Projects</h2>
-
 <div>
   <span>
     <b>
@@ -62,7 +60,6 @@ I prioritize code quality and user experience in everything I build.
     Helps users analyze chess games faster with interactive move navigation and board visualization
   </span>
 </div>
-
 <div>
   <span>
     <b>
@@ -74,7 +71,6 @@ I prioritize code quality and user experience in everything I build.
     Simplifies game discovery by providing organized information and personalized recommendations
   </span>
 </div>
-
 <div>
   <span>
     <b>
@@ -101,12 +97,10 @@ I prioritize code quality and user experience in everything I build.
 
 <!-- ===== Currently Improving ===== -->
 <h2>Currently Improving</h2>
-
 <ul>
   <li>Advanced React patterns and performance optimization</li>
   <li>Modern JavaScript frameworks and tools</li>
 </ul>
-
 
 <!-- ===== GitHub Activity ===== -->
 <h2>GitHub Activity</h2>
@@ -125,7 +119,6 @@ I prioritize code quality and user experience in everything I build.
   <br />
 <div align="center"> <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&count_private=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=3" alt="GitHub Stats" height="195" /> <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=f8d866&hide_border=true&hide=typescript,nix,shell&langs_count=6&v=10" alt="Top Languages" height="195" /> </div> <div align="center"> <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" /> </div>
 </details>
-
 <br />
 <p align="center">
   <i>Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
@@ -133,7 +126,6 @@ I prioritize code quality and user experience in everything I build.
 
 <!-- ===== Contact Section ===== -->
 <h2>Contact</h2>
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khataihuseynzada/)
@@ -143,7 +135,6 @@ I prioritize code quality and user experience in everything I build.
 
   <p><i>Open to collaboration, PRs, and feedback</i></p>
 </div>
-
 <hr />
 
 <!-- ===== Footer ===== -->
