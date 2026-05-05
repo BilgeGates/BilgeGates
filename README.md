@@ -52,7 +52,7 @@ I prioritize code quality and user experience in everything I build.
 <div>
   <span>
     <b>
-      <a href="https://github.com/BilgeGates/chess_viewer">Chess Diagram Generator</a>
+      <a href="https://github.com/BilgeGates/chess_viewer">FENForsty Pro</a>
     </b>
   </span>
   -
