@@ -102,34 +102,6 @@ I prioritize code quality and user experience in everything I build.
   <li>Modern JavaScript frameworks and tools</li>
 </ul>
 
-<!-- ===== GitHub Activity ===== -->
-<h2>GitHub Activity</h2>
-
-<!-- Contribution Graph (always visible) -->
-<a href="https://github.com/BilgeGates/github-readme-activity-graph">
-  <img
-    src="https://bilgegates-readme-activity-graph.vercel.app/graph?username=BilgeGates&bg_color=131313&color=f8d866&line=0a4d0a&point=ffffff&area=true&hide_border=true&v=2"
-    alt="BilgeGates github activity graph"
-  />
-</a>
-
-<!-- Collapsible Detailed Stats -->
-<details>
-  <summary><strong>Detailed Profile Stats</strong></summary>
-  <br />
-<div align="center">
-  <img src="https://bilgegates-readme-stats.vercel.app/api?username=BilgeGates&show_icons=true&count_private=true&theme=dark&icon_color=0a4d0a&title_color=f8d866&hide_border=true&v=3" alt="GitHub Stats" height="195" /> 
-  <img src="https://bilgegates-readme-stats.vercel.app/api/top-langs?username=BilgeGates&layout=donut&theme=dark&title_color=f8d866&text_color=f8d866&hide_border=true&hide=typescript,nix,shell&langs_count=6&v=10" alt="Top Languages" height="195" /> 
-</div> 
-<div align="center"> 
-    <img src="https://bilgegates-readme-streak-stats.vercel.app?user=BilgeGates&theme=dark&ring=0a4d0a&fire=f8d866&currStreakLabel=f8d866&sideLabels=0a4d0a&currStreakNum=0a4d0a&dates=f8d866&date_format=M%20j%5B%2C%20Y%5D&card_width=650&card_height=200&hide_border=true" alt="GitHub Streak" /> 
-</div>
-</details>
-<br />
-<p align="center">
-  <i>Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a>, <a href="https://github.com/DenverCoder1">Jonah Lawrence</a> and <a href="https://github.com/Ashutosh00710">Ashutosh Dwivedi</a> for creating these awesome GitHub stats badges</i>
-</p>
-
 <!-- ===== Contact Section ===== -->
 <h2>Contact</h2>
 <div align="center">
@@ -137,7 +109,6 @@ I prioritize code quality and user experience in everything I build.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4d0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khataihuseynzada/)
   [![Email](https://img.shields.io/badge/Email-f8d866?style=for-the-badge&logo=gmail&logoColor=black)](mailto:huseynzadekhatai@gmail.com) 
   [![GitHub](https://img.shields.io/badge/Follow-0a4d0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilgeGates)
-  [![Twitter](https://img.shields.io/badge/Twitter-f8d866?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/K_Huseynzada)
 
   <p><i>Open to collaboration, PRs, and feedback</i></p>
 </div>
