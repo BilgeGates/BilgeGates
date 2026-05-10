@@ -8,7 +8,10 @@ I enjoy turning Figma designs into real, working interfaces.
 My main stack is JavaScript, React, Tailwind CSS, HTML and CSS.
 Favorite tools are VS Code, Git and Vercel.
 
-Some things I've built: [Chess Vision](https://github.com/BilgeGates/chess-vision), [PlayGuide](https://github.com/BilgeGates/Functional_Gaming-Site), [Online Journal](https://github.com/BilgeGates/online-journal).
+Things I've built:
+- [Chess Vision](https://chess-vision-site.vercel.app) — Professional chess diagram generator with FEN support, ultra-HD export
+- [PlayGuide](https://github.com/BilgeGates/Functional_Gaming-Site) — Game discovery and recommendations
+- [Online Journal](https://github.com/BilgeGates/online-journal) — Minimal journaling app
 
 If you want to reach me, check my [LinkedIn profile](https://www.linkedin.com/in/khataihuseynzada/).
 
