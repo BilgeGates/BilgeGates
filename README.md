@@ -5,7 +5,8 @@ I am Khatai, I am 17 and a frontend developer in Azerbaijan and a systems engine
 I build responsive web apps with React and focus on clean, maintainable code.
 I enjoy turning Figma designs into real, working interfaces.
 
-My main stack is JavaScript, React, Tailwind CSS, HTML and CSS.
+My main stack is JavaScript, React, Tailwind CSS, HTML and CSS. 
+I am currently learing TypeScript.
 Favorite tools are VS Code, Git and Vercel.
 
 Things I've built:
